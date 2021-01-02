@@ -13,6 +13,8 @@
  
  [Leitura de Retorno de Boletos Bancários usando Strategy Pattern com Programação Funcional](https://github.com/manoelcampos/padroes-projetos/tree/master/comportamentais/strategy/retorno-boleto-funcional)
  
+ [#3 ♟☕️Padrão de Projetos STRATEGY com PROGRAMAÇÃO FUNCIONAL no Java 8](https://www.youtube.com/watch?v=hsRbUGTV2ok&feature=youtu.be)
+ 
  
  <p></p>
  
